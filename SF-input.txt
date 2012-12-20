@@ -1,0 +1,15 @@
+# URLS from Yahoo
+http://sports.yahoo.com/nfl/boxscore?gid=20120909009
+http://sports.yahoo.com/nfl/boxscore?gid=20120916025
+http://sports.yahoo.com/nfl/boxscore?gid=20120923016
+http://sports.yahoo.com/nfl/boxscore?gid=20120930020
+http://sports.yahoo.com/nfl/boxscore?gid=20121007025
+http://sports.yahoo.com/nfl/boxscore?gid=20121014025
+http://sports.yahoo.com/nfl/boxscore?gid=20121018025
+http://sports.yahoo.com/nfl/boxscore?gid=20121029022
+http://sports.yahoo.com/nfl/boxscore?gid=20121111025
+http://sports.yahoo.com/nfl/boxscore?gid=20121119025
+http://sports.yahoo.com/nfl/boxscore?gid=20121125018
+http://sports.yahoo.com/nfl/boxscore?gid=20121202014
+http://sports.yahoo.com/nfl/boxscore?gid=20121209025
+http://sports.yahoo.com/nfl/boxscore?gid=20121216017
